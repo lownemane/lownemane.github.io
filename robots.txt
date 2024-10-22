@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lownemane.github.io/lownemane.txt.gz
+Sitemap: https://lownemane.github.io/app/lownemane.txt.gz
+Sitemap: https://lownemane.github.io/assets/lownemane.txt.gz
+Sitemap: https://lownemane.github.io/css/lownemane.txt.gz
+Sitemap: https://lownemane.github.io/includes/lownemane.txt.gz
+Sitemap: https://lownemane.github.io/item/lownemane.txt.gz
+Sitemap: https://lownemane.github.io/src/lownemane.txt.gz
